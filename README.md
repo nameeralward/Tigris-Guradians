@@ -36,4 +36,3 @@ The underlying template is licensed under CC BY 3.0.
 
 For any inquiries, please contact us at:
 - Email: info@tigris-guardians.com
-- Phone: (905) 609-2307 
